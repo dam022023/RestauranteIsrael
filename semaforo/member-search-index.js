@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"clases","c":"profesor","l":"preguntacolor()"},{"p":"clases","c":"profesor","l":"profesor()","u":"%3Cinit%3E()"}];updateSearchResults();
